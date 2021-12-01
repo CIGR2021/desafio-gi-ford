@@ -20,5 +20,4 @@ for (let indice = 0; indice <= vimCodePart1.length; indice++) {
   
 }
 
-
-// console.log(vimCodePart1, vimCodePart2, vimCodePart3)
+console.log(vimCodePart1, vimCodePart2, vimCodePart3)
